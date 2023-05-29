@@ -1,0 +1,69 @@
+.body {
+    text-align: right;
+    justify-content: right;
+    box-shadow: orange;
+    color: white;
+    background-color: rgb(8, 8, 61);
+}
+
+.shadow {
+    text-shadow: 10px;
+    box-shadow: 10px;
+    color: orange;
+}
+
+.button {
+    margin: 3px;
+    padding: 10px
+}
+
+.img {
+
+    height: 40px;
+    width: 40px;
+    justify-content: left;
+    border-image: none;
+    gap: 10px;
+    text-align: left;
+    display: flex;
+    flex-direction: flex end;
+    margin-right: -1200;
+}
+
+.video {
+    height: 40px;
+    width: 40px;
+    justify-content: left;
+    border-image: none;
+    gap: 10px;
+    text-align: left;
+    display: flex;
+    flex-direction: flex end;
+    margin-right: -1200;
+}
+
+.anayasayfaimg {
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    text-align: right;
+    border-radius: 10px;
+    border-width: 20px;
+    border-color: rgb(213, 5, 5)
+}
+
+.paragraf {
+    padding-left: 40px;
+    text-align: left;
+    justify-content: flex-start;
+    margin-top: 10px;
+    float: left;
+}
+
+.social {
+    float: left;
+    background-color: red;
+    margin-bottom: 40px;
+    border-radius: 80px;
+    margin-left: 20px;
+}
